@@ -5,3 +5,4 @@ pillow
 google-generativeai
 anthropic
 ipython
+python-multipart>=0.0.22 # not directly required, pinned by Snyk to avoid a vulnerability
